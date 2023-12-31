@@ -1,0 +1,9 @@
+.AppBarStyle {
+    background-color: #ff6610;
+}
+.PageContainer {
+        z-index:  99;
+        width: 100%;
+        background-color: #F5F5F5;
+        background-color: transparent;
+}

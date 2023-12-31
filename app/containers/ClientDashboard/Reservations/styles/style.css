@@ -1,0 +1,49 @@
+.TableCell {
+  color: #fff;
+}
+.TableRow {
+  background-color: #ff6610;
+}
+
+.PaperStyle {
+  height: 70%;
+  width: 70%;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 40px;
+  padding: 40px;
+}
+
+.PageTitle {
+  margin: auto;
+  text-align: center;
+  color: #000;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.searchBar {
+  margin: auto;
+  color: #000;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+.AddBtnPosition {
+  position: absolute;
+  right: 15px;
+  bottom: 25px;
+}
+
+.AddBtn {
+  height: 69px;
+  width: 75px;
+  color: #ff6610;
+}

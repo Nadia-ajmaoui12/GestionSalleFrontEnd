@@ -1,0 +1,41 @@
+.TableCell {
+    color: #fff;
+  }
+  .TableRow {
+    background-color: #ff6610;
+  }
+  
+  .PaperStyle {
+    height: fit-content;
+    width: 70%;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    padding: 40px;
+  }
+  
+  .PageTitle {
+    margin: auto;
+    text-align: center;
+    color: #000;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .SearchInput {
+    margin: auto;
+    text-align: center;
+    color: #000;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 900px;
+    padding: 10px;
+    text-align: center;
+    font-family: Inter;
+  }
